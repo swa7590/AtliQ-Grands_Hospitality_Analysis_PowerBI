@@ -2,7 +2,7 @@
 # Dashboard & Reporting
 An interactive Power BI dashboard was developed, focused on key financial and operational metrics with filters and visualizations designed for executive decision-making.
 
-Live Dashboard Link
+Live Dashboard Link:- https://app.powerbi.com/view?r=eyJrIjoiMWYyNmE2ZjgtYTZlYy00NWM2LWIyMTctZWQ2ZWQ1ZjE3OGU2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 
 Video Presentation Link
 
