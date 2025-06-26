@@ -1,11 +1,11 @@
-# AtliQ_Hospitality_Analysis_PowerBI
-# Dashboard & Reporting
+## AtliQ_Hospitality_Analysis_PowerBI
+## Dashboard & Reporting
 
 An interactive Power BI dashboard was developed, focused on key financial and operational metrics with filters and visualizations designed for executive decision-making.
 
-#### Live Dashboard Link:- http://bit.ly/4eioHlU
+### Live Dashboard Link:- http://bit.ly/4eioHlU
 
-#### Video Presentation Link:- http://bit.ly/3I1w19F
+### Video Presentation Link:- http://bit.ly/3I1w19F
 
 ### Overview
 This project was developed as part of the Codebasics Resume Challenge and centres on AtliQ Grands, a fictional chain of five-star hotels across India. The company has been experiencing a decline in market share and revenue in the luxury/business hotel segment, primarily due to inefficient management decisions.
@@ -24,7 +24,7 @@ Atliq Grands has been losing market share and revenue primarily due to increased
 •	Extract additional business insights beyond the initial requirements to support data-driven decision-making.
 
 
-## Hotel & Data Overview
+### Hotel & Data Overview
 
 •	Hotel Chain: AtliQ Grands
 
@@ -37,7 +37,7 @@ Atliq Grands has been losing market share and revenue primarily due to increased
 •	Booking Channels: 6 key online platforms plus other direct channels
 
 
-## Data Sources Used
+### Data Sources Used
 
 •	dim_date: Calendar data including week numbers, months, and day types
 
@@ -50,9 +50,9 @@ Atliq Grands has been losing market share and revenue primarily due to increased
 •	fact_bookings: Detailed booking information (ID, guest count, revenue, platform, status, and ratings)
 
 
-# Skills Acquired
+### Skills Acquired
 
-## Key Metrics
+### Key Metrics
 •	Revenue
 
 •	RevPAR (Revenue per Available Room)
@@ -71,7 +71,7 @@ Atliq Grands has been losing market share and revenue primarily due to increased
 
 •	Average Rating
 
-## Power BI & Analytics
+### Power BI & Analytics
 •	Power BI fundamentals
 
 •	Data cleaning and transformation
@@ -82,7 +82,7 @@ Atliq Grands has been losing market share and revenue primarily due to increased
 
 •	Visuals: Donut chart, Line chart, Area chart, Line & stacked column chart, Clustered column-line chart, Clustered bar chart, Matrix table
 
-## Soft Skills
+### Soft Skills
 
 •	Hospitality domain knowledge
 
@@ -91,7 +91,7 @@ Atliq Grands has been losing market share and revenue primarily due to increased
 •	Presenting insights and strategic recommendations
 
 
-# Filters Applied
+### Filters Applied
 
 •	Room Class
 
@@ -108,7 +108,7 @@ Atliq Grands has been losing market share and revenue primarily due to increased
 •	Week Number
 
 
-# Key Insights
+### Key Insights
 •	Mumbai leads in revenue generation, contributing 668.6M, followed by Bangalore (420.4M), Hyderabad (325.2M), and Delhi (294.5).
 
 •	Luxury rooms contributed the most to total revenue (61.61%), while the Business category contributed 38.39%.
@@ -130,22 +130,22 @@ Atliq Grands has been losing market share and revenue primarily due to increased
 •	Most bookings came from other sources, 55K (699M), followed by MakeYourTrip, 27K (314M). The lowest number of bookings came from direct offline, 7K (86M).
 
 
-# Recommendations
+### Recommendations
 
-## Enhance Customer Ratings:
+#### Enhance Customer Ratings:
 Customer ratings can be enhanced by delivering exceptional service, maintaining high standards of cleanliness, and offering quality food, all of which directly impact bookings and overall revenue.
 
-## Implement Dynamic Pricing:
+#### Implement Dynamic Pricing:
 As the Average Daily Rate (ADR) is almost the same on weekdays and weekends, using dynamic pricing for all properties and platforms can help increase revenue.
 
-## Address High Cancellation Rates:
+#### Address High Cancellation Rates:
 Others and MakeYourTrip are the top sources of bookings, but they also have a high cancellation rate of 25% across different cities and properties. This needs attention, as high cancellations hurt hotel rankings in search results, which can reduce bookings and revenue. Additionally, Elite rooms show the highest cancellation rate and should be addressed separately.
 
-## Optimize Room Pricing Based on Occupancy:
+#### Optimize Room Pricing Based on Occupancy:
 With an overall occupancy rate of 57.9%, the management should explore dynamic pricing strategies, particularly for properties with lower occupancy, to boost room utilization and increase revenue.
 
 
-## Acknowledgments
+#### Acknowledgments
 Special thanks to Codebasics for hosting this insightful challenge and providing a real-world case study for hands-on analytics learning.
 
 
