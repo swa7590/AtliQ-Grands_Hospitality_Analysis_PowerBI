@@ -3,11 +3,11 @@
 
 An interactive Power BI dashboard was developed, focused on key financial and operational metrics with filters and visualizations designed for executive decision-making.
 
-## Live Dashboard Link:- https://app.powerbi.com/view?r=eyJrIjoiMWYyNmE2ZjgtYTZlYy00NWM2LWIyMTctZWQ2ZWQ1ZjE3OGU2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9](https://app.powerbi.com/view?r=eyJrIjoiMWYyNmE2ZjgtYTZlYy00NWM2LWIyMTctZWQ2ZWQ1ZjE3OGU2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+#### Live Dashboard Link:- http://bit.ly/4eioHlU
 
-Video Presentation Link
+#### Video Presentation Link:- http://bit.ly/3I1w19F
 
-## Overview
+#### Overview
 This project was developed as part of the Codebasics Resume Challenge and centres on AtliQ Grands, a fictional chain of five-star hotels across India. The company has been experiencing a decline in market share and revenue in the luxury/business hotel segment, primarily due to inefficient management decisions.
 This project leverages business intelligence and data analytics to support strategic decision-making and business revitalization.
 
