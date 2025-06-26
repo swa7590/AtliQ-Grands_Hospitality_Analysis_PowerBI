@@ -7,12 +7,12 @@ An interactive Power BI dashboard was developed, focused on key financial and op
 
 #### Video Presentation Link:- http://bit.ly/3I1w19F
 
-#### Overview
+### Overview
 This project was developed as part of the Codebasics Resume Challenge and centres on AtliQ Grands, a fictional chain of five-star hotels across India. The company has been experiencing a decline in market share and revenue in the luxury/business hotel segment, primarily due to inefficient management decisions.
 This project leverages business intelligence and data analytics to support strategic decision-making and business revitalization.
 
 
-## Problem statement
+### Problem statement
 Atliq Grands has been losing market share and revenue primarily due to increased competition and suboptimal management decisions. This project aims to reverse this trend by applying hospitality analytics to derive actionable insights.
 
 
