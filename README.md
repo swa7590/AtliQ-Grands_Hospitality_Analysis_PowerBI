@@ -5,7 +5,7 @@ An interactive Power BI dashboard was developed, focused on key financial and op
 
 ### Live Dashboard Link:- https://lnkd.in/di7NQRQt
 
-### Video Presentation Link:- https://tinyurl.com/4kvuhxuy
+### Video Presentation Link:- https://tinyurl.com/3w46m823
 
 ### Overview
 This project was developed as part of the Codebasics Resume Challenge and centres on AtliQ Grands, a fictional chain of five-star hotels across India. The company has been experiencing a decline in market share and revenue in the luxury/business hotel segment, primarily due to inefficient management decisions.
